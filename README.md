@@ -8,6 +8,7 @@ git merge --abort
  This is a news app which provides worlds headline.One can just get information at all time.
 
 ### Development
+
 want to contribute? Awesome!
 To fix a bug or enhance an existing module, follow these steps:
 - Fork the repository
