@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+ 
+<!DOCTYPE html>
+<html>
+   <head>
+       <meta charset="utf-8">
+       {% if title %}
+       <title> {{ title }}</title>
+       {% else %}
+       <title> Welcome to the best News Review website </title>
+       {% endif %}
+       {%import 'macros.html' as macro %}
+   </head>
+   <body>
+       <!-- Content block -->
+
+       {% block content %}
+       {{macro.displayNews(news)}}
+       {% endblock%}
+   </body>
+</html>

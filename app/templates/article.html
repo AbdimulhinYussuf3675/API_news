@@ -1,0 +1,26 @@
+{% extends 'base.html'%}
+ {% block content %}
+<div class="container-fluid">
+<h1 class="text-center" style="font-size: 30px;">NEWS ARTICLES</h1>
+<hr>
+{% for display in articles %}
+    <div class="row">
+            <div class="col-md-10">
+                <p> {{ display.title}} </p>
+                <hr>
+            
+                    <img src = "{{display.urlToImage}}" class="img-responsive" alt="Article">
+                    <p> {{ display.description}} </p>
+                    <a href="{{display.url}}" class="btn btn-primary">More Info</a>
+                </div>
+                <hr>
+
+        <div class="col-md-2">
+    
+                    <p> {{ display.publishedAt}} </p>
+                </div>
+ </div>
+    <hr>
+{% endfor %}
+</div>
+{% endblock %}
