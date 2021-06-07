@@ -18,8 +18,8 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin 'improved-feature`)
 - Create a Pull Request
 # Technologies used:
- Flask(python)
- Jinja2
+ - Flask(python)
+- Jinja2
 
 # Licence
 MIT
