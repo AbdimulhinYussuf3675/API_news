@@ -1,8 +1,7 @@
 # API_NEWS
 
 ## Author
-- [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
-git merge --abort  
+- [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675) 
 
 ## Mobile support
  This is a news app which provides worlds headline.One can just get information at all time.
