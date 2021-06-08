@@ -3,8 +3,8 @@
 ## Author
 - [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675) 
 
-## Mobile support
- This is a news app which provides worlds headline.One can just get information at all time.
+## Description
+ This is a news app which provides world's news headline.One can just get information at all time.
 
 ### Development
 
