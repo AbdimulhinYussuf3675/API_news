@@ -1,7 +1,7 @@
 # API_NEWS
 
 ## Author
-- [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675) 
+- [Abdimulhin Adam](https://github.com/AbdimulhinYussuf3675) 
 
 ## Description
  This is a news app which provides world's news headline.One can just get information at all time.
